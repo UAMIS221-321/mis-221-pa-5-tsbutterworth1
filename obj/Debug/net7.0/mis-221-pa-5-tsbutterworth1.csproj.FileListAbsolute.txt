@@ -1,0 +1,15 @@
+C:\Users\Tyler\Documents\source\repos\spring2023\mis221\mis-221-pa-5-tsbutterworth1\obj\Debug\net7.0\mis-221-pa-5-tsbutterworth1.csproj.AssemblyReference.cache
+C:\Users\Tyler\Documents\source\repos\spring2023\mis221\mis-221-pa-5-tsbutterworth1\obj\Debug\net7.0\mis-221-pa-5-tsbutterworth1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\Documents\source\repos\spring2023\mis221\mis-221-pa-5-tsbutterworth1\obj\Debug\net7.0\mis-221-pa-5-tsbutterworth1.AssemblyInfoInputs.cache
+C:\Users\Tyler\Documents\source\repos\spring2023\mis221\mis-221-pa-5-tsbutterworth1\obj\Debug\net7.0\mis-221-pa-5-tsbutterworth1.AssemblyInfo.cs
+C:\Users\Tyler\Documents\source\repos\spring2023\mis221\mis-221-pa-5-tsbutterworth1\obj\Debug\net7.0\mis-221-pa-5-tsbutterworth1.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Documents\source\repos\spring2023\mis221\mis-221-pa-5-tsbutterworth1\bin\Debug\net7.0\mis-221-pa-5-tsbutterworth1.exe
+C:\Users\Tyler\Documents\source\repos\spring2023\mis221\mis-221-pa-5-tsbutterworth1\bin\Debug\net7.0\mis-221-pa-5-tsbutterworth1.deps.json
+C:\Users\Tyler\Documents\source\repos\spring2023\mis221\mis-221-pa-5-tsbutterworth1\bin\Debug\net7.0\mis-221-pa-5-tsbutterworth1.runtimeconfig.json
+C:\Users\Tyler\Documents\source\repos\spring2023\mis221\mis-221-pa-5-tsbutterworth1\bin\Debug\net7.0\mis-221-pa-5-tsbutterworth1.dll
+C:\Users\Tyler\Documents\source\repos\spring2023\mis221\mis-221-pa-5-tsbutterworth1\bin\Debug\net7.0\mis-221-pa-5-tsbutterworth1.pdb
+C:\Users\Tyler\Documents\source\repos\spring2023\mis221\mis-221-pa-5-tsbutterworth1\obj\Debug\net7.0\mis-221-pa-5-tsbutterworth1.dll
+C:\Users\Tyler\Documents\source\repos\spring2023\mis221\mis-221-pa-5-tsbutterworth1\obj\Debug\net7.0\refint\mis-221-pa-5-tsbutterworth1.dll
+C:\Users\Tyler\Documents\source\repos\spring2023\mis221\mis-221-pa-5-tsbutterworth1\obj\Debug\net7.0\mis-221-pa-5-tsbutterworth1.pdb
+C:\Users\Tyler\Documents\source\repos\spring2023\mis221\mis-221-pa-5-tsbutterworth1\obj\Debug\net7.0\mis-221-pa-5-tsbutterworth1.genruntimeconfig.cache
+C:\Users\Tyler\Documents\source\repos\spring2023\mis221\mis-221-pa-5-tsbutterworth1\obj\Debug\net7.0\ref\mis-221-pa-5-tsbutterworth1.dll
